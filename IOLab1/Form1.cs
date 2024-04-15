@@ -36,5 +36,59 @@ namespace IOLab1
         {
 
         }
+
+        private void groupBox4_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox5_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox6_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Biurowe_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabPage5_Click(object sender, EventArgs e)
+        {
+        }
+
+        private void schowajListêToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            splitContainer1.Panel1Collapsed = !splitContainer1.Panel1Collapsed;
+        }
+
+        private void przeœlijToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Ankieta zosta³a przes³ana");
+        }
+
+        private void pomoc_click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Pomoc");
+        }
     }
 }

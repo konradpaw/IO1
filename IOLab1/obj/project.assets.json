@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SuperStudent-PL\\Desktop\\IO\\Ankieta\\IOLab1\\IOLab1.csproj",
+      "projectUniqueName": "C:\\Users\\SuperStudent-PL\\Source\\Repos\\IO1\\IOLab1\\IOLab1.csproj",
       "projectName": "IOLab1",
-      "projectPath": "C:\\Users\\SuperStudent-PL\\Desktop\\IO\\Ankieta\\IOLab1\\IOLab1.csproj",
+      "projectPath": "C:\\Users\\SuperStudent-PL\\Source\\Repos\\IO1\\IOLab1\\IOLab1.csproj",
       "packagesPath": "C:\\Users\\SuperStudent-PL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SuperStudent-PL\\Desktop\\IO\\Ankieta\\IOLab1\\obj\\",
+      "outputPath": "C:\\Users\\SuperStudent-PL\\Source\\Repos\\IO1\\IOLab1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
